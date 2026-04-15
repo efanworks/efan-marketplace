@@ -1,0 +1,15 @@
+{
+  "name": "efan-marketplace",
+  "owner": {
+    "name": "efanworks"
+  },
+  "plugins": [
+    {
+      "name": "commit-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/efanworks/commit-plugin.git"
+      }
+    }
+  ]
+}
